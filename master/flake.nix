@@ -9,7 +9,7 @@
   
   inputs.src-circleci_client-master.flake = false;
   inputs.src-circleci_client-master.owner = "FedericoCeratto";
-  inputs.src-circleci_client-master.ref   = "refs/heads/master";
+  inputs.src-circleci_client-master.ref   = "master";
   inputs.src-circleci_client-master.repo  = "nim-circleci";
   inputs.src-circleci_client-master.type  = "github";
   
