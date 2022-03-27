@@ -11,6 +11,7 @@
   inputs.src-circleci_client-master.ref   = "refs/heads/master";
   inputs.src-circleci_client-master.owner = "FedericoCeratto";
   inputs.src-circleci_client-master.repo  = "nim-circleci";
+  inputs.src-circleci_client-master.dir   = "";
   inputs.src-circleci_client-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
