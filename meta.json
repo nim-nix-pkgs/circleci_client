@@ -7,7 +7,7 @@
   "url": "https://github.com/FedericoCeratto/nim-circleci",
   "description": "CircleCI API client",
   "refs": [
-    "fatal: unable to access 'https://github.com/FedericoCeratto/nim-circleci/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/FedericoCeratto/nim-circleci/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
