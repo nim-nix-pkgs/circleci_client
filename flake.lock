@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656746670,
-        "narHash": "sha256-Y8b1pVHd5DGKFcXc4CuatHfzmMOuaK1CkuPsBaN2yHU=",
+        "lastModified": 1657152861,
+        "narHash": "sha256-+KAzdtfdJGai0Zd7p2vN+dDrOtzKPyK/+Bajg5eaaH8=",
         "owner": "nim-nix-pkgs",
         "repo": "circleci_client",
-        "rev": "fd43122b5e12423b36c2eefebdddac989e3f5143",
+        "rev": "5516be3a2f10efbc0afb40a8374157b3d865fe16",
         "type": "github"
       },
       "original": {
