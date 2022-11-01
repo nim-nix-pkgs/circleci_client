@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254394,
-        "narHash": "sha256-2JsO3XULsfPpM+htdoGuQoeRQ32sNQn/sB0Tv090eHU=",
+        "lastModified": 1667322196,
+        "narHash": "sha256-5fWWPTJEQLiKXZBJla9OqsGRPGc8mblEM2dbyWs2P0A=",
         "owner": "nim-nix-pkgs",
         "repo": "circleci_client",
-        "rev": "f048826c55649524583262f65b79b472e9608675",
+        "rev": "d2da98215f88efc93f9c2c20826a9a140daf61b0",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
